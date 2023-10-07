@@ -176,4 +176,8 @@ ul {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.container {
+    width: 1158px;
+    padding-inline: 15px;
+    margin-inline: auto;
    
