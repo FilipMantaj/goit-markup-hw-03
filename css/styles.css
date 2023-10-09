@@ -35,7 +35,6 @@ p {
 .header-wrap {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid #e7e9fc;
 }
 
 .link {
@@ -202,7 +201,7 @@ img {
 }
 
 .main-button {
-  background-color: var(--iris);
+  background-color: #4d5ae5;
   border: none;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   color: var(--white);
